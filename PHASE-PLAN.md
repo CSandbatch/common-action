@@ -35,5 +35,5 @@
 |---|---|
 | Local visual QA | ✅ |
 | Stakeholder review | ⬜ |
-| Production deployment | ⬜ |
-| Post-deploy verification | ⬜ |
+| GitHub Pages deployment | ✅ |
+| Post-deploy verification | ✅ |

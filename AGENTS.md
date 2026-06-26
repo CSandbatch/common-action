@@ -14,8 +14,8 @@ Self-contained agent system for the Common Action website project.
 
 **Client:** Common Action  
 **Live site:** https://www.common-action.org/  
-**Current phase:** Phase 4 — launch preparation  
-**Gate:** Stakeholder approval and deployment access
+**Current phase:** Phase 4 — GitHub Pages preview live  
+**Gate:** Stakeholder approval and optional custom-domain cutover
 
 ## Key Files
 

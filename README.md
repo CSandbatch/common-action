@@ -3,7 +3,7 @@
 Rebuild of [common-action.org](https://www.common-action.org/) as a dependency-free evidentiary interface for climate coordination and open science.
 
 **Stack:** Static HTML and CSS  
-**Status:** Phase 4 — launch preparation  
+**Status:** Phase 4 — GitHub Pages preview live  
 **Production files:** `docs/`
 **GitHub Pages:** https://csandbatch.github.io/common-action/
 

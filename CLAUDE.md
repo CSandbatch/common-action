@@ -7,8 +7,8 @@
 **Client:** Common Action  
 **Live site:** https://www.common-action.org/  
 **Stack:** Dependency-free static HTML and CSS  
-**Hosting target:** Existing Apache-compatible static hosting  
-**Current phase:** Phase 4 — launch preparation
+**Hosting target:** GitHub Pages from `main/docs`  
+**Current phase:** Phase 4 — hosted preview live
 
 ## Governing Design Claim
 
