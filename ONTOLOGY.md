@@ -34,6 +34,10 @@ A public operating principle concerning traceability, uncertainty, interoperabil
 
 Interface metadata that exposes status, recency, authorship, scope, or evidentiary limits.
 
+## ColorScheme
+
+A **locked** named palette applied through CSS custom properties and switched at runtime. The site has exactly two, ported from Common Pitch and held in sync with it: `ultraviolet` (default — electric blue + yellow signal) and `suited-chili` (chili + amber). Canonical token values and switcher invariants are defined in `AGENTS.md` → **Color Schemes (Locked)**. Adding, removing, renaming, or recoloring a scheme requires explicit user approval.
+
 ## Artifact
 
 | Type | Path | Description |
