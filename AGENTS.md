@@ -22,7 +22,8 @@ Self-contained agent system for the Common Action website project.
 | File | Purpose |
 |---|---|
 | `docs/index.html` | Production page and GitHub Pages source |
-| `docs/styles.css` | Production design system |
+| `docs/styles.css` | Production design system (two color schemes: `ultraviolet`, `suited-chili`) |
+| `docs/app.js` | Color-scheme switcher only (site is otherwise static) |
 | `brand/design-system.md` | Visual and interaction specification |
 | `audit/content-inventory.md` | Source-content record |
 | `audit/design-inventory.md` | Original-site design audit |

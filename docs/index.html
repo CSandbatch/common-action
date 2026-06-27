@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#f0eee5">
+    <meta name="theme-color" content="#eef1f6">
     <meta name="description" content="Common Action designs knowledge infrastructure for climate coordination and the open-science transition.">
     <meta property="og:title" content="Common Action — Knowledge infrastructure for collective work">
     <meta property="og:description" content="Moving the world from chaos to comprehension.">
@@ -11,6 +11,14 @@
     <meta property="og:url" content="https://www.common-action.org/">
     <title>Common Action — Knowledge infrastructure for collective work</title>
     <link rel="canonical" href="https://www.common-action.org/">
+    <script>
+      try {
+        document.documentElement.dataset.theme =
+          localStorage.getItem("common-action-theme") || "ultraviolet";
+      } catch {
+        document.documentElement.dataset.theme = "ultraviolet";
+      }
+    </script>
     <link rel="stylesheet" href="styles.css">
     <script type="application/ld+json">
       {
@@ -41,6 +49,11 @@
         <a href="#protocols">Protocols</a>
         <a href="#contact">Contact</a>
       </nav>
+
+      <button class="theme-trigger" type="button" data-theme-toggle aria-pressed="false" title="Change color to suited chili">
+        <span class="theme-trigger-label">Color change</span>
+        <span class="theme-swatch" aria-hidden="true"></span>
+      </button>
     </header>
 
     <main id="main">
@@ -280,5 +293,7 @@
         <p>© 2026</p>
       </div>
     </footer>
+
+    <script src="app.js" defer></script>
   </body>
 </html>
