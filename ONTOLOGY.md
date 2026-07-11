@@ -6,6 +6,10 @@ Entity taxonomy for the Common Action website.
 
 Common Action is a knowledge-infrastructure initiative focused on climate coordination and the open-science transition.
 
+## Posture
+
+The stance a repo's interface takes toward the same underlying facts. This repo holds the **evidentiary-brochure** posture: linear, document-like, read start to finish. `common-pitch` holds the **persuasion-instrument** posture on the same facts: interactive, assembled by the visitor. Full framing: `AGENTS.md` → Mission.
+
 ## SourceSite
 
 The public page at `https://www.common-action.org/`, audited as the factual source for the rebuild.

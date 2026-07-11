@@ -1,5 +1,7 @@
 # Common Action — Process Dictionary
 
+Ordered, repeatable procedures for this repo. For which process a task calls for, see `SKILLS.md`.
+
 ## Process: Source Site Audit
 
 1. Fetch the public source document and headers.

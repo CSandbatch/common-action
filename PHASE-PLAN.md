@@ -1,39 +1,18 @@
 # Common Action — Phase Plan
 
-**Last updated:** 2026-06-26
+**Current phase:** Phase 4 — Launch (in progress). Phases 1–3 (Audit, Design
+System, Build) are complete — see `MEMORY.md` → Log for the record.
 
-## Phase 1 — Audit ✅ COMPLETE
-
-| Task | Status |
-|---|---|
-| Source HTML extraction | ✅ |
-| Desktop and mobile reference captures | ✅ |
-| Content inventory | ✅ |
-| Design and conversion audit | ✅ |
-
-## Phase 2 — Design System ✅ COMPLETE
+## Phase 4 — Launch
 
 | Task | Status |
 |---|---|
-| Evidentiary-interface direction | ✅ |
-| Information architecture | ✅ |
-| Palette and typography system | ✅ |
-| Institutional-legibility review | ✅ |
+| Local visual QA | Done |
+| Stakeholder review | Open |
+| GitHub Pages deployment | Done |
+| Post-deploy verification | Done |
 
-## Phase 3 — Build ✅ COMPLETE
-
-| Task | Status |
-|---|---|
-| Semantic page scaffold | ✅ |
-| Responsive component system | ✅ |
-| Content migration and articulation | ✅ |
-| Metadata and accessibility layer | ✅ |
-
-## Phase 4 — Launch 🔄 IN PROGRESS
-
-| Task | Status |
-|---|---|
-| Local visual QA | ✅ |
-| Stakeholder review | ⬜ |
-| GitHub Pages deployment | ✅ |
-| Post-deploy verification | ✅ |
+**Gate to close this phase:** stakeholder approval, recorded, and — if a
+custom-domain cutover is wanted — that cutover completed. Run the Launch
+process in `PROCESSES.md` before deploying anything; do not mark this phase
+closed on a "looks done" basis.
