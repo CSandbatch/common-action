@@ -6,15 +6,19 @@ An evidentiary interface: low-entropy chrome, high-dimensional content. The page
 
 ## Palette
 
-| Token | Value | Use |
-|---|---|---|
-| Paper | `#f0eee5` | Page ground |
-| Paper light | `#f7f5ed` | Elevated fields |
-| Ink | `#10232d` | Primary text |
-| Muted ink | `#526168` | Secondary text |
-| Rule | `#a5aaa5` | Dividers |
-| Signal | `#bedb39` | Active/provisional markers |
-| Vermilion | `#d84b31` | Exceptions and emphasis |
+The site ships **two locked color schemes** — `ultraviolet` (default) and
+`suited-chili` — ported from Common Pitch on 2026-06-26 and switched at runtime.
+Canonical token values live in **one place only**: `../AGENTS.md` § Color
+Schemes (Locked). This file does not duplicate them.
+
+Token roles (values per scheme in the authoritative table): `--paper` page
+ground · `--paper-light` elevated fields · `--ink` primary text · `--ink-muted`
+secondary text · `--rule`/`--rule-dark` dividers · `--signal`
+active/provisional markers · `--vermilion` exceptions and emphasis.
+
+> The original single palette this document once carried (warm paper
+> `#f0eee5`, chartreuse signal `#bedb39`) was superseded by the two-scheme
+> system on 2026-06-26 and is recorded in `MEMORY.md`, not here.
 
 ## Typography
 

@@ -50,3 +50,4 @@ Stable context that changes future work. Not a diary. Committed and public.
   itself to hold its voice. `CLAUDE.md` reduced to a thin `@AGENTS.md` shim;
   its prior content (persona pointer, source-fact constants, build command,
   mission framing) redistributed into `AGENTS.md`, this file, and `ONTOLOGY.md`.
+- **2026-07-11** — Evaluator audit caught stale pre-port palette in `brand/design-system.md` (the original single-scheme values, superseded 2026-06-26). Palette section now defers to `AGENTS.md` § Color Schemes (Locked) as the single authoritative table; old values retired to this log: paper `#f0eee5`, paper-light `#f7f5ed`, ink `#10232d`, ink-muted `#526168`, rule `#a5aaa5`, signal `#bedb39`, vermilion `#d84b31`.
